@@ -14,3 +14,4 @@ Creazione di un model Category con i seguenti campi
 Installazione e configurazione di GraphQL tramite Laravel Lighthouse ( https://lighthouse-php.com/master/getting-started/installation.html ) con il sistema di devTools GraphQL ( https://github.com/mll-lab/laravel-graphiql )
 
 Lettura delle risorse Post e Category tramite GraphQL
+
